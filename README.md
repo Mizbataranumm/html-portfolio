@@ -22,9 +22,6 @@ It demonstrates how HTML structure and design can be combined to build a profess
 ## 🛠 Technologies Used
 - *HTML5* – for structure  
 - *CSS3* – for styling  
-- (You can add JS later for interactivity)
-
----
 
 ---
 
@@ -42,7 +39,7 @@ You can view this portfolio in two ways:
 
 ## 👩‍💻 Author
 *Mizba Taranum*  
-💌 [Your Email or LinkedIn link here]  
+💌 mizbataranum309@gmail.com  
 📍 Passionate about web design and creative coding.
 
 ---
